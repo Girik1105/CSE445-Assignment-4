@@ -15,7 +15,7 @@
     </Hotel>
     <Hotel>
         <Name>Hilton Garden Inn</Name>
-        <Address _NearestAirport="Phoenix Sky Harbor">
+        <Address>
             <Number>1420</Number>
             <Street>N Scottsdale Rd</Street>
             <City>Tempe</City>
@@ -39,7 +39,7 @@
     </Hotel>
     <Hotel>
         <Name>Hyatt Place</Name>
-        <Address _NearestAirport="Phoenix Sky Harbor">
+        <Address>
             <Number>1413</Number>
             <Street>W Bass Pro Dr</Street>
             <City>Mesa</City>
@@ -76,7 +76,7 @@
     </Hotel>
     <Hotel>
         <Name>Holiday Inn</Name>
-        <Address _NearestAirport="John Wayne">
+        <Address>
             <Number>222</Number>
             <Street>N Harbor Blvd</Street>
             <City>Anaheim</City>
@@ -100,7 +100,7 @@
     </Hotel>
     <Hotel>
         <Name>Courtyard by Marriott</Name>
-        <Address _NearestAirport="John Wayne">
+        <Address>
             <Number>14635</Number>
             <Street>Sand Canyon Ave</Street>
             <City>Irvine</City>
@@ -123,4 +123,4 @@
         <Phone>949-753-1800</Phone>
         <Rating>4.0</Rating>
     </Hotel>
-</Hotels> 
+</Hotels>
